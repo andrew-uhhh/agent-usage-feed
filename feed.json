@@ -1,1 +1,37 @@
-{"rows":[{"detail":"Weekly limit: 14% used","name":"Muse","pctLeft":86,"plan":"Power","resets":"Resets Thu Nov 26, 10:26 AM PT","stamp":"Live · Nov 22, 10:42 PM"},{"detail":"Weekly limit: 0% used","name":"Claude","pctLeft":100,"plan":"Ultra","resets":"Resets Wed Nov 25, 10:00 PM PT","stamp":"Reported Nov 22, 10:42 PM"},{"detail":"5-hour limit: 100% left · Weekly: 84% left","name":"ChatGPT","pctLeft":100,"plan":"Plus, until Dec 1","resets":"Weekly resets Tue Nov 24, 10:17 AM PT","stamp":"Reported Nov 22, 8:42 PM"},{"detail":"5-hour window: 0% used · Weekly: 1% used","name":"Gemini","pctLeft":99,"plan":"AI Plus","resets":"Weekly resets Mon Nov 23, 8:48 AM PT","stamp":"Reported Nov 22, 8:42 PM"}],"updated":"2026-11-22T22:42:18-08:00"}
+{
+  "rows": [
+    {
+      "detail": "Weekly limit: 14% used",
+      "name": "Muse",
+      "pctLeft": 86,
+      "plan": "Power",
+      "resets": "Resets Thu Nov 26, 10:26 AM PT",
+      "stamp": "Live · Nov 22, 10:42 PM"
+    },
+    {
+      "detail": "Weekly limit: 0% used",
+      "name": "Claude",
+      "pctLeft": 100,
+      "plan": "Ultra",
+      "resets": "Resets Wed Nov 25, 10:00 PM PT",
+      "stamp": "Reported Nov 22, 10:42 PM"
+    },
+    {
+      "detail": "5-hour limit: 100% left · Weekly: 84% left",
+      "name": "ChatGPT",
+      "pctLeft": 100,
+      "plan": "Plus, until Dec 1",
+      "resets": "Weekly resets Tue Nov 24, 10:17 AM PT",
+      "stamp": "Reported Nov 22, 8:42 PM"
+    },
+    {
+      "detail": "5-hour window: 0% used · Weekly: 1% used",
+      "name": "Gemini",
+      "pctLeft": 99,
+      "plan": "AI Plus",
+      "resets": "Weekly resets Mon Nov 23, 8:48 AM PT",
+      "stamp": "Reported Nov 22, 8:42 PM"
+    }
+  ],
+  "updated": "2026-11-22T22:42:18-08:00"
+}
