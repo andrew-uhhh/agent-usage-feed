@@ -1,12 +1,12 @@
 {
   "rows": [
     {
-      "detail": "Weekly limit: 15% used",
+      "detail": "Weekly limit: 16% used",
       "name": "Muse",
-      "pctLeft": 85,
+      "pctLeft": 84,
       "plan": "Power",
       "resets": "Resets Thu Nov 26, 10:26 AM PT",
-      "stamp": "Live · Nov 23, 3:42 AM"
+      "stamp": "Live · Nov 23, 4:42 AM"
     },
     {
       "detail": "Weekly limit: 0% used",
@@ -14,7 +14,7 @@
       "pctLeft": 100,
       "plan": "Ultra",
       "resets": "Resets Wed Nov 25, 10:00 PM PT",
-      "stamp": "Reported Nov 23, 3:42 AM"
+      "stamp": "Reported Nov 23, 4:42 AM"
     },
     {
       "detail": "5-hour limit: 100% left · Weekly: 84% left",
@@ -33,5 +33,5 @@
       "stamp": "Reported Nov 23, 2:42 AM"
     }
   ],
-  "updated": "2026-11-23T03:42:22-08:00"
+  "updated": "2026-11-23T04:42:34-08:00"
 }
