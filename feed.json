@@ -1,20 +1,20 @@
 {
   "rows": [
     {
-      "detail": "Weekly limit: 28% used",
+      "detail": "Weekly limit: 29% used",
       "name": "Muse",
-      "pctLeft": 72,
+      "pctLeft": 71,
       "plan": "Power",
       "resets": "Resets Thu Nov 26, 10:26 AM PT",
-      "stamp": "Live \u00b7 Nov 24, 9:43 AM"
+      "stamp": "Live \u00b7 Nov 24, 10:42 AM"
     },
     {
-      "detail": "Weekly limit: 3% used",
+      "detail": "Weekly limit: 8% used",
       "name": "Claude",
-      "pctLeft": 97,
+      "pctLeft": 92,
       "plan": "Ultra",
       "resets": "Resets Wed Nov 25, 10:00 PM PT",
-      "stamp": "Reported Nov 24, 9:43 AM"
+      "stamp": "Reported Nov 24, 10:42 AM"
     },
     {
       "detail": "5-hour limit: 100% left \u00b7 Weekly: 84% left",
@@ -33,5 +33,5 @@
       "stamp": "Reported Nov 24, 8:44 AM"
     }
   ],
-  "updated": "2026-11-24T09:43:04-08:00"
+  "updated": "2026-11-24T10:42:49-08:00"
 }
