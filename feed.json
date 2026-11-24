@@ -6,15 +6,15 @@
       "pctLeft": 76,
       "plan": "Power",
       "resets": "Resets Thu Nov 26, 10:26 AM PT",
-      "stamp": "Live · Nov 23, 9:42 PM"
+      "stamp": "Live · Nov 23, 10:43 PM"
     },
     {
-      "detail": "Weekly limit: 0% used",
+      "detail": "Weekly limit: 1% used",
       "name": "Claude",
-      "pctLeft": 100,
+      "pctLeft": 99,
       "plan": "Ultra",
       "resets": "Resets Wed Nov 25, 10:00 PM PT",
-      "stamp": "Reported Nov 23, 9:42 PM"
+      "stamp": "Reported Nov 23, 10:43 PM"
     },
     {
       "detail": "5-hour limit: 100% left · Weekly: 84% left",
@@ -33,5 +33,5 @@
       "stamp": "Reported Nov 23, 8:43 PM"
     }
   ],
-  "updated": "2026-11-23T21:42:40-08:00"
+  "updated": "2026-11-23T22:43:19-08:00"
 }
