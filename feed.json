@@ -6,7 +6,7 @@
       "pctLeft": 75,
       "plan": "Power",
       "resets": "Resets Thu Nov 26, 10:26 AM PT",
-      "stamp": "Live · Nov 24, 12:42 AM"
+      "stamp": "Live · Nov 24, 1:42 AM"
     },
     {
       "detail": "Weekly limit: 1% used",
@@ -14,7 +14,7 @@
       "pctLeft": 99,
       "plan": "Ultra",
       "resets": "Resets Wed Nov 25, 10:00 PM PT",
-      "stamp": "Reported Nov 24, 12:42 AM"
+      "stamp": "Reported Nov 24, 1:42 AM"
     },
     {
       "detail": "5-hour limit: 100% left · Weekly: 84% left",
@@ -33,5 +33,5 @@
       "stamp": "Reported Nov 23, 8:43 PM"
     }
   ],
-  "updated": "2026-11-24T00:42:41-08:00"
+  "updated": "2026-11-24T01:42:37-08:00"
 }
