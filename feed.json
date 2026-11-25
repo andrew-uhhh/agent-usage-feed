@@ -6,23 +6,23 @@
       "pctLeft": 62,
       "plan": "Power",
       "resets": "Resets Thu Nov 26, 10:26 AM PT",
-      "stamp": "Live · Nov 25, 7:42 AM"
+      "stamp": "Live · Nov 25, 8:43 AM"
     },
     {
-      "detail": "Weekly limit: 57% used",
+      "detail": "Weekly limit: 59% used",
       "name": "Claude",
-      "pctLeft": 43,
+      "pctLeft": 41,
       "plan": "Ultra",
       "resets": "Resets Wed Nov 25, 10:00 PM PT",
-      "stamp": "Reported Nov 25, 7:42 AM"
+      "stamp": "Reported Nov 25, 8:43 AM"
     },
     {
       "detail": "5-hour limit: 100% left · Weekly: 100% left",
       "name": "ChatGPT",
       "pctLeft": 100,
       "plan": "Plus, until Dec 1",
-      "resets": "Weekly resets Wed Dec 2, 2:42 AM PT",
-      "stamp": "Reported Nov 25, 2:43 AM"
+      "resets": "Weekly resets Wed Dec 2, 8:42 AM PT",
+      "stamp": "Reported Nov 25, 8:43 AM"
     },
     {
       "detail": "5-hour window: 0% used · Weekly: 1% used",
@@ -30,8 +30,8 @@
       "pctLeft": 99,
       "plan": "AI Plus",
       "resets": "Weekly resets Mon Nov 30, 8:48 AM PT",
-      "stamp": "Reported Nov 25, 2:43 AM"
+      "stamp": "Reported Nov 25, 8:43 AM"
     }
   ],
-  "updated": "2026-11-25T07:42:51-08:00"
+  "updated": "2026-11-25T08:43:04-08:00"
 }
