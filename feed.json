@@ -6,15 +6,15 @@
       "pctLeft": 53,
       "plan": "Power",
       "resets": "Resets Thu Nov 26, 10:26 AM PT",
-      "stamp": "Live \u00b7 Nov 25, 7:43 PM"
+      "stamp": "Live \u00b7 Nov 25, 8:42 PM"
     },
     {
-      "detail": "Weekly limit: 98% used",
+      "detail": "Weekly limit: 100% used",
       "name": "Claude",
-      "pctLeft": 2,
+      "pctLeft": 0,
       "plan": "Ultra",
       "resets": "Resets Wed Nov 25, 10:00 PM PT",
-      "stamp": "Reported Nov 25, 7:43 PM"
+      "stamp": "Reported Nov 25, 8:42 PM"
     },
     {
       "detail": "5-hour limit: 100% left \u00b7 Weekly: 100% left",
@@ -33,5 +33,5 @@
       "stamp": "Reported Nov 25, 2:44 PM"
     }
   ],
-  "updated": "2026-11-25T19:43:09-08:00"
+  "updated": "2026-11-25T20:42:48-08:00"
 }
