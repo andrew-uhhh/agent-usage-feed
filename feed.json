@@ -21,17 +21,17 @@
       "name": "ChatGPT",
       "pctLeft": 100,
       "plan": "Plus, until Dec 1",
-      "resets": "Weekly resets Wed Dec 2, 2:42 PM PT",
-      "stamp": "Reported Nov 25, 2:44 PM"
+      "resets": "Weekly resets Thu Dec 3, 2:42 AM PT",
+      "stamp": "Reported Nov 26, 2:43 AM"
     },
     {
-      "detail": "5-hour window: 3% used · Weekly: 1% used",
+      "detail": "5-hour window: 0% used · Weekly: 2% used",
       "name": "Gemini",
-      "pctLeft": 99,
+      "pctLeft": 98,
       "plan": "AI Plus",
       "resets": "Weekly resets Mon Nov 30, 8:48 AM PT",
-      "stamp": "Reported Nov 25, 2:44 PM"
+      "stamp": "Reported Nov 26, 2:43 AM"
     }
   ],
-  "updated": "2026-11-26T01:42:34-08:00"
+  "updated": "2026-11-26T02:43:11-08:00"
 }
