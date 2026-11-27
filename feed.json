@@ -6,7 +6,7 @@
       "pctLeft": 94,
       "plan": "Power",
       "resets": "Resets Thu Dec 3, 10:26 AM PT",
-      "stamp": "Live \u00b7 Nov 27, 2:42 AM"
+      "stamp": "Live · Nov 27, 2:42 AM"
     },
     {
       "detail": "Weekly limit: 0% used",
@@ -17,21 +17,21 @@
       "stamp": "Reported Nov 27, 2:42 AM"
     },
     {
-      "detail": "5-hour limit: 100% left \u00b7 Weekly: 100% left",
+      "detail": "5-hour limit: 100% left · Weekly: 100% left",
       "name": "ChatGPT",
       "pctLeft": 100,
       "plan": "Plus, until Dec 1",
-      "resets": "Weekly resets Thu Dec 3, 8:42 PM PT",
-      "stamp": "Reported Nov 26, 8:42 PM"
+      "resets": "Weekly resets Fri Dec 4, 2:42 AM PT",
+      "stamp": "Reported Nov 27, 2:43 AM"
     },
     {
-      "detail": "5-hour window: 0% used \u00b7 Weekly: 2% used",
+      "detail": "5-hour window: 0% used · Weekly: 2% used",
       "name": "Gemini",
       "pctLeft": 98,
       "plan": "AI Plus",
       "resets": "Weekly resets Mon Nov 30, 8:48 AM PT",
-      "stamp": "Reported Nov 26, 8:42 PM"
+      "stamp": "Reported Nov 27, 2:43 AM"
     }
   ],
-  "updated": "2026-11-27T02:42:34-08:00"
+  "updated": "2026-11-27T02:43:12-08:00"
 }
